@@ -3,7 +3,7 @@
         <style>
         .d1
         {
-            background: grey;
+            background: orange;
             height: 500px;
             width: 500px;
             border: 50%;
@@ -13,11 +13,11 @@
         }
         input
         {
-            background: lightgrey;
+            background: grey;
         }
         button
         {
-            background: lightgrey;
+            background: grey;
         }
         </style>
     </head>
