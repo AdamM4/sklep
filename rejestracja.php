@@ -10,14 +10,19 @@
             outline: 5px black solid;
             font-size: 20px;
             text-align: center;
+            border-top-left-radius: 100px;
+            border-bottom-right-radius: 50px;
+            border-bottom-left-radius: 10px;
         }
         input
         {
             background: grey;
+            border-radius:20px;
         }
         button
         {
             background: grey;
+            border-radius:20px;
         }
         </style>
     </head>
