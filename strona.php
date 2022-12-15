@@ -31,7 +31,7 @@
         }
         </style>
     </head>
-    <body>
+    <body>  
         <center><div class="d1">
     <?php
         session_start();
